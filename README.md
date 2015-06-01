@@ -1,0 +1,1 @@
+Esta es una práctica de un MOOC sobre nodejs, espress, etc... en concreto este código sirve para generar números aleatorios.
